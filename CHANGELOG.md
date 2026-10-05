@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 Format based on [Keep a Changelog](https://keepachangelog.com).
 
+## [v1.1.0] - 2026-10-05
+
+**✨ What's Changed in v1.1.0**
+
+### 🚀 Features & Enhancements
+- expand 64-bit matrix, dual-slug resolver with legacy fallback, and cache invalidation in [#4](https://github.com/cutver/setup/pull/4) ([39fd6f1](https://github.com/cutver/setup/commit/39fd6f1d70c3b6cc8a8256d61bced59cfcfc8647)) by @Row0902
+
+### 👥 Contributors
+- @Row0902
+
+---
+**Full Diff**: https://github.com/cutver/setup/compare/v1.0.4...v1.1.0
 ## [v1.0.4] - 2026-09-26
 
 **✨ What's Changed in v1.0.4**
